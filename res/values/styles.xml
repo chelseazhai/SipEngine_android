@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- application default theme -->
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+</resources>

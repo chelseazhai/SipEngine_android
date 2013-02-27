@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- SipEngine library name -->
+    <string name="se_app_name" translatable="false">SipEngine</string>
+
+</resources>
